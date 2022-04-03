@@ -1,0 +1,15 @@
+C:\C#\repos\OOP in CSharp\bin\Debug\net6.0\OOP in CSharp.exe
+C:\C#\repos\OOP in CSharp\bin\Debug\net6.0\OOP in CSharp.deps.json
+C:\C#\repos\OOP in CSharp\bin\Debug\net6.0\OOP in CSharp.runtimeconfig.json
+C:\C#\repos\OOP in CSharp\bin\Debug\net6.0\OOP in CSharp.dll
+C:\C#\repos\OOP in CSharp\bin\Debug\net6.0\OOP in CSharp.pdb
+C:\C#\repos\OOP in CSharp\obj\Debug\net6.0\OOP in CSharp.csproj.AssemblyReference.cache
+C:\C#\repos\OOP in CSharp\obj\Debug\net6.0\OOP in CSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\repos\OOP in CSharp\obj\Debug\net6.0\OOP in CSharp.AssemblyInfoInputs.cache
+C:\C#\repos\OOP in CSharp\obj\Debug\net6.0\OOP in CSharp.AssemblyInfo.cs
+C:\C#\repos\OOP in CSharp\obj\Debug\net6.0\OOP in CSharp.csproj.CoreCompileInputs.cache
+C:\C#\repos\OOP in CSharp\obj\Debug\net6.0\OOP in CSharp.dll
+C:\C#\repos\OOP in CSharp\obj\Debug\net6.0\refint\OOP in CSharp.dll
+C:\C#\repos\OOP in CSharp\obj\Debug\net6.0\OOP in CSharp.pdb
+C:\C#\repos\OOP in CSharp\obj\Debug\net6.0\OOP in CSharp.genruntimeconfig.cache
+C:\C#\repos\OOP in CSharp\obj\Debug\net6.0\ref\OOP in CSharp.dll
